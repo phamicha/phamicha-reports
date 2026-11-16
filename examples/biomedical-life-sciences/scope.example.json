@@ -1,0 +1,59 @@
+{
+  "purpose": "Research brief only; changing this file does not automatically change HTML controls.",
+  "conference_year": 2027,
+  "subjects": {
+    "Biomedical": [
+      "biomedical engineering",
+      "biomedical sciences",
+      "biomaterials",
+      "medical imaging",
+      "translational medicine"
+    ],
+    "Life Sciences": [
+      "molecular biology",
+      "cell biology",
+      "genomics",
+      "bioinformatics",
+      "biotechnology",
+      "neuroscience"
+    ]
+  },
+  "conferences": {
+    "in_person_priority": [
+      "Taiwan",
+      "Vietnam"
+    ],
+    "remote": "Worldwide, but online attendance and remote presentation must be separately verified",
+    "other_locations": "Separate supplementary section"
+  },
+  "jobs": {
+    "regions": [
+      "Taiwan",
+      "Australia",
+      "Singapore",
+      "Vietnam",
+      "Global remote"
+    ],
+    "roles": [
+      "Research Assistant",
+      "Postdoc",
+      "Bioinformatician",
+      "Research Scientist",
+      "Laboratory Technician"
+    ],
+    "deadline_year": "Current open vacancies, including late-2026 deadlines; not automatically limited to 2027",
+    "exclude": [
+      "Clinical-practice jobs unless explicitly requested and licensing eligibility is checked"
+    ]
+  },
+  "language": {
+    "default": "en",
+    "alternative": "vi"
+  },
+  "schedule_example": {
+    "weekday": "Friday",
+    "time": "08:00",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  "delivery": "Self-contained HTML in chat; manual GitHub upload initially; no email"
+}

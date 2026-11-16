@@ -1,0 +1,25 @@
+{
+  "events": [],
+  "jobs": [],
+  "github": [],
+  "meta": {
+    "formatVersion": 2,
+    "interfaceDefault": "en",
+    "templateOnly": true,
+    "builtAt": "2026-11-16",
+    "reports": {
+      "events": {
+        "notice": {
+          "en": "Empty research starter — no 2027 event has been verified in this template. Research the official sources before adding records.",
+          "vi": "Bản mẫu trống — chưa có hội thảo 2027 nào được xác minh trong bản này. Cần kiểm tra nguồn chính thức trước khi thêm dữ liệu."
+        }
+      },
+      "jobs": {
+        "notice": {
+          "en": "Empty research starter — no vacancies are included or claimed open. Search and verify current recruitment notices before adding records.",
+          "vi": "Bản mẫu trống — chưa có tin tuyển dụng hoặc khẳng định vị trí đang mở. Hãy tìm và kiểm tra thông báo tuyển dụng hiện tại trước khi thêm."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "events": [
+    {
+      "id": "DEMO_E1",
+      "title": "DEMO — KHÔNG PHẢI HỘI THẢO THẬT",
+      "subject": "Biomedical",
+      "kind": "Conference",
+      "group": "Biomedical · DEMO",
+      "region": "Taiwan",
+      "mode": "Online",
+      "deadline": null,
+      "closed": false,
+      "status": "DEMO — NOT A REAL OPPORTUNITY",
+      "when": "Ví dụ kỹ thuật, không có ngày sự kiện thật.",
+      "place": "Không có địa điểm thật; giá trị bộ lọc chỉ để thực hành.",
+      "fee": "Chưa có phí thực tế.",
+      "feeBasis": "Không dùng để so sánh hay đăng ký.",
+      "feeValue": null,
+      "feeCurrency": "",
+      "contact": "Không có liên hệ thật.",
+      "notes": "DEMO: không nộp bài, đăng ký hoặc liên hệ dựa vào mục này.",
+      "urls": [],
+      "checked": "Chưa kiểm tra nguồn",
+      "sourceDate": null,
+      "verification": "Dữ liệu giả lập để thử nhập JSON.",
+      "en": {
+        "title": "DEMO — NOT A REAL CONFERENCE",
+        "when": "Technical example; no actual event dates.",
+        "place": "No actual location; filter values are practice only.",
+        "fee": "No real fee data.",
+        "feeBasis": "Not for comparison or registration.",
+        "contact": "No real contact.",
+        "notes": "DEMO: do not submit, register or contact anyone based on this record.",
+        "verification": "Synthetic data for JSON import practice."
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "id": "DEMO_J1",
+      "title": "DEMO — KHÔNG PHẢI VIỆC LÀM THẬT",
+      "region": "Global",
+      "category": "Life Sciences",
+      "mode": "Remote",
+      "status": "Unverified",
+      "deadline": null,
+      "sourceDate": null,
+      "historicalStatus": "DEMO — NOT A REAL OPPORTUNITY",
+      "salary": "Chưa có dữ liệu lương thực tế.",
+      "salaryValue": null,
+      "salaryCurrency": "",
+      "fields": {
+        "Employer": "Không có đơn vị tuyển dụng thật.",
+        "Contact": "Không có liên hệ thật.",
+        "Apply": "Không ứng tuyển; chỉ để thử giao diện."
+      },
+      "urls": [],
+      "en": {
+        "title": "DEMO — NOT A REAL VACANCY",
+        "salary": "No real salary data.",
+        "fields": {
+          "Employer": "No real employer.",
+          "Contact": "No real contact.",
+          "Apply": "Do not apply; interface practice only."
+        }
+      }
+    }
+  ],
+  "github": [],
+  "meta": {
+    "templateOnly": true,
+    "reports": {
+      "events": {
+        "notice": {
+          "en": "DEMO ONLY — synthetic practice data, not a real opportunity.",
+          "vi": "CHỈ DEMO — dữ liệu thực hành, không phải cơ hội thật."
+        }
+      },
+      "jobs": {
+        "notice": {
+          "en": "DEMO ONLY — synthetic practice data, not a real opportunity.",
+          "vi": "CHỈ DEMO — dữ liệu thực hành, không phải cơ hội thật."
+        }
+      }
+    }
+  }
+}
