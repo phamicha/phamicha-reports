@@ -1,30 +1,23 @@
-# Phamicha Reports
+# Phamicha Reports / Báo cáo Phamicha
 
-Kho báo cáo: https://github.com/phamicha/phamicha-reports
+English is the default. Use **EN / VN** to switch the interface and translated report descriptions without resetting filters.
 
+Three reports in one self-contained HTML: Conferences & journal calls 2027, APAC Geospatial Jobs, and GitHub Top 20 Weekly. Search, filters, sorting, CSV/JSON exports and full offline HTML download are included.
 
-Báo cáo HTML tiếng Việt: Hội thảo khoa học 2027, APAC Geospatial Jobs và GitHub Top 20 Weekly.
+## Source dates
 
-## Sử dụng
+- Conferences / MDPI: 47 entries from 13 November 2026.
+- APAC: 10 archived vacancies from 11 October 2026; current hiring status unverified.
+- GitHub: 20 repositories and 10 Trending estimates from the retained 14–15 November sample; not freshly verified API data.
 
-Mở `index.html` trực tiếp trong trình duyệt để dùng offline. Sau khi bật GitHub Pages, cùng file này chạy trên web với menu, bộ lọc và sắp xếp.
+Interface translation/build updated on 16 November 2026; this does not change the original source-check dates.
 
-## Ngày dữ liệu
+## Publish or update / Đăng hoặc cập nhật
 
-- Hội thảo/MDPI: 47 mục từ bản nguồn 13/11/2026.
-- APAC: 10 tin lưu trữ 11/10/2026; chưa xác minh đang mở hiện tại.
-- GitHub: 20 repo và 10 mục Trending từ bản mẫu 14–15/11/2026; chưa xác minh API.
+See **HUONG_DAN_GITHUB_EN_VN.txt** for the full English/Vietnamese guide.
 
-## Xuất bản
+For a simple update, upload a replacement **index.html** using Add file → Upload files and commit to **main**. GitHub Pages republishes from **main / root** after it is enabled in Settings → Pages.
 
-Trong repository: Settings → Pages → Deploy from a branch → main → /(root) → Save.
+For source-based updates, edit **data.json**, run `python3 build.py`, and commit the synchronized data/template/output. Importing JSON in the browser changes only that session; use Download full HTML before closing the tab, then upload it as index.html.
 
-Chỉ dùng tệp tĩnh, không có dịch vụ máy chủ, khóa API hoặc thư viện bên ngoài.
-
-## Cập nhật
-
-Nhập JSON trong giao diện chỉ thay dữ liệu của phiên đang mở. Nhấn Tải toàn bộ web HTML, đổi tên file thành index.html rồi commit vào kho để cập nhật cho mọi người xem.
-
-Hoặc sửa `data.json` và chạy `python3 build.py`, commit cả dữ liệu, template và index.html tương ứng.
-
-Báo cáo trong chat vẫn được tạo theo các tác vụ đã thiết lập. GitHub Pages tự xuất bản khi file thay đổi; việc tự nghiên cứu và đưa dữ liệu mới lên kho chưa được thiết lập.
+The source is buildless HTML/JavaScript and needs no API keys or external runtime libraries. Open index.html directly for offline use. Weekly research and committing fresh data remain separate from Pages hosting.

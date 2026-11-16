@@ -1,0 +1,48 @@
+PHAMICHA REPORTS — GITHUB PAGES / EN–VN
+
+TIẾNG VIỆT
+
+Mặc định báo cáo mở bằng tiếng Anh. Nhấn VN để chuyển sang tiếng Việt; các điều kiện đang lọc được giữ nguyên. Mỗi mục có ngày dữ liệu và mức xác minh riêng. Việc dịch không có nghĩa đã kiểm tra lại nguồn.
+
+CÁCH ĐĂNG / CẬP NHẬT HTML
+1. Tải file HTML mới từ chat hoặc nhấn Download full HTML trong báo cáo.
+2. Đổi tên file thành index.html (đừng để thành index.html.html).
+3. Đăng nhập GitHub và mở https://github.com/phamicha/phamicha-reports.
+4. Chọn Add file → Upload files, chọn index.html mới.
+5. Ghi mô tả như Update report 2026-11-20 rồi chọn Commit changes vào main.
+6. GitHub Pages sẽ xuất bản lại. Mở địa chỉ mà Settings → Pages hiển thị để kiểm tra. Nếu chưa thấy bản mới, đợi deployment hoàn tất rồi tải lại trang.
+
+BẬT PAGES LẦN ĐẦU (CHỈ NẾU CHƯA BẬT)
+Settings → Pages → Source: Deploy from a branch → Branch: main → /(root) → Save.
+
+CẬP NHẬT DỮ LIỆU BẰNG JSON (TÙY CHỌN)
+- Import updated JSON chỉ thay dữ liệu trong phiên đang mở. Nhấn Download full HTML để giữ thay đổi, sau đó đăng file lên GitHub theo các bước trên.
+- Nhập JSON thay toàn bộ ba nhóm, không tự ghép. Luôn giữ đủ mục cũ còn phù hợp.
+- Nếu quản lý bằng source: sửa data.json, chạy python3 build.py rồi commit data.json/template.html/index.html tương ứng. Chỉ sửa JSON mà không build sẽ chưa thay báo cáo hiển thị.
+- Nút Xuất CSV chỉ lấy kết quả đang lọc; HTML và JSON tải toàn bộ dữ liệu.
+
+PHÂN BIỆT CẬP NHẬT
+GitHub Pages tự xuất bản khi file trong kho thay đổi. Nó không tự tìm hội thảo, việc làm hoặc thống kê GitHub. Nghiên cứu thứ Sáu và bước đẩy file lên kho cần được cấu hình riêng; không mặc định đã tự động.
+
+NGÀY DỮ LIỆU ĐANG GIỮ
+- Hội thảo/MDPI: 13/11/2026, 47 mục.
+- APAC: lưu trữ 11/10/2026, 10 tin; chưa xác minh đang tuyển hiện tại.
+- GitHub: bản mẫu 14–15/11/2026, 20 repo và 10 mục Trending; chưa xác minh API.
+
+ENGLISH
+
+The report opens in English by default. EN/VN changes the interface and translated descriptions while preserving active filters. Names and original source wording may be retained. Translation is not a new source check.
+
+To publish an update:
+1. Download the latest self-contained HTML from chat or from the report.
+2. Rename it index.html.
+3. Open https://github.com/phamicha/phamicha-reports while signed in.
+4. Choose Add file → Upload files and upload the replacement index.html.
+5. Commit to main with a dated message.
+6. Wait for Pages deployment to finish, then open the URL shown in Settings → Pages.
+
+One-time setup: Settings → Pages → Deploy from a branch → main → /(root) → Save.
+
+JSON imports replace all three datasets in the current session. Download the full HTML afterwards to retain the imported data, then upload it to GitHub. Alternatively edit data.json, run python3 build.py and commit the synchronized source and output files.
+
+GitHub Pages republishes files; it does not independently research new data. The retained APAC archive and GitHub sample must not be described as freshly verified live data.

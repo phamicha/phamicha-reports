@@ -27,7 +27,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "17–18/03/2027"
+      "eventDate": "17–18/03/2027",
+      "en": {
+        "title": "IOCGM 2027 — 1st International Online Conference on Geomatics",
+        "when": "17–18 March 2027 (CET, UTC+1; Vietnam is 6 hours ahead)",
+        "place": "Fully online; MDPI / Geomatics",
+        "fee": "Registration and attendance are free. Journal publication charges are separate if a journal submission is chosen.",
+        "contact": "iocgm2027@mdpi.com",
+        "notes": "Abstract deadline: 20 November 2026; decision notification: 18 December 2026; registration closes: 11 March 2027. The exact abstract cutoff time and detailed session schedule have not been verified. Themes include remote sensing, 3D/photogrammetry, GeoAI, geodesy/GNSS and spatial data. Verified author instructions: English abstracts only, 200–300 words; no conference full paper is required. Abstract acceptance does not automatically grant an oral/poster invitation. Presentations must be live; authors who do not attend their live session are not eligible for a presentation certificate or award. Abstracts appear on Sciforum; indexing is unverified and the meeting platform has not been announced.",
+        "feeBasis": "Conference registration and attendance are free; journal APCs are separate.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "GEELT 2027 — General English Education & Language Teaching",
@@ -56,7 +66,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "19/03/2027"
+      "eventDate": "19/03/2027",
+      "en": {
+        "title": "GEELT 2027 — General English Education & Language Teaching",
+        "when": "19/03/2027",
+        "place": "General Education Building, Lantan Campus, National Chiayi University, Chiayi, Taiwan",
+        "fee": "Author, attendee and student fees have not been announced or verified.",
+        "contact": "ncyulgc.conf@gmail.com; +886-5-271-7977 / 7978; Ms. Shao",
+        "notes": "Organizer: Language Center, National Chiayi University. English abstract up to 300 words, with 3–5 keywords; oral/poster formats. Early-bird registration ends on 15 December 2026; regular registration: 16 December 2026–19 February 2027. Abstract cutoff time/time zone, decision date, full-paper requirements, proceedings and remote participation rights have not been announced or verified.",
+        "feeBasis": "Author/presenter reference fee; see the detailed conditions.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Advanced GNSS and InSAR Technologies for Geoscience Applications",
@@ -85,7 +105,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "Advanced GNSS and InSAR Technologies for Geoscience Applications",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Guo Chen, Wei Tang, Ling Huang, Amir Allahvirdi-Zadeh. Full-manuscript deadline: 2027-01-31; abstract deadline: 2026-11-30. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Multi-Modal Geospatial AI: Fusing Images, Point Clouds, and Text",
@@ -115,7 +145,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "Multi-Modal Geospatial AI: Fusing Images, Point Clouds, and Text",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Bashar Alsadik; Daniel Rodrigues dos Santos. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Environmental Features Assisted Satellite Navigation",
@@ -145,7 +185,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "Environmental Features Assisted Satellite Navigation",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Guohao Zhang. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "GLOW in Asia XV",
@@ -174,7 +224,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "23–25/04/2027"
+      "eventDate": "23–25/04/2027",
+      "en": {
+        "title": "GLOW in Asia XV",
+        "when": "23–25/04/2027",
+        "place": "National Taiwan Normal University, Taipei, Taiwan",
+        "fee": "Published fees have not been verified.",
+        "contact": "glowinasia15@gmail.com",
+        "notes": "Abstract deadline uses Taiwan time (UTC+8); the cutoff time was not found. Anonymous English PDF abstract, maximum 2 pages; oral or poster presentation. Decisions expected in mid-February 2027. Remote participation has not been confirmed. Organizer: Department of English, NTNU. Proceedings/indexing, full-paper requirements and registration deadline have not been announced.",
+        "feeBasis": "Author/presenter reference fee; see the detailed conditions.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Beyond Algorithms: Hardware-Enabled Innovations in Remote Sensing Payloads, CubeSat Missions and Low-Altitude Applications",
@@ -203,7 +263,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "Beyond Algorithms: Hardware-Enabled Innovations in Remote Sensing Payloads, CubeSat Missions and Low-Altitude Applications",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Dong Chen, Shaoju Wang, Xiang Zhang, Mahlatse Kganyago, Aminjon A. Gulakhmadov, Zongxuan Li. Full-manuscript deadline: 2026-12-31; abstract deadline: Not verified. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Geographic Information and Remote Sensing Technology (GIRST)",
@@ -232,7 +302,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "Geographic Information and Remote Sensing Technology (GIRST)",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Francesco Benedetto, Fabio Tosti. Full-manuscript deadline: 2026-12-31; abstract deadline: 2026-10-31. The abstract deadline has passed, but the official directory still shows Open for Submission; confirm with the editorial office whether direct full-manuscript submission is possible. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "IGCT 2027 — 31st International Geographical Conference of Taiwan",
@@ -260,7 +340,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "24–25/04/2027"
+      "eventDate": "24–25/04/2027",
+      "en": {
+        "title": "IGCT 2027 — 31st International Geographical Conference of Taiwan",
+        "when": "24–25 April 2027, including field activities",
+        "place": "National Taiwan Normal University, Gongguan Campus, Taipei, Taiwan",
+        "fee": "Author, attendee and student fees have not been announced or verified.",
+        "contact": "igctntnu@gmail.com; +886-2-7749-1652",
+        "notes": "Organizer: Department of Geography, NTNU. Second-round CFP confirmed: abstracts/forum proposals due 3 January 2027; decisions on 20 January; full papers on 14 March 2027, especially for the outstanding-paper award. First round closed on 13 September 2026. Chinese or English abstracts; GIS, remote sensing and GeoAI are included. Cutoff time, attendee registration deadline, remote participation and indexing have not been verified.",
+        "feeBasis": "Author/presenter reference fee; see the detailed conditions.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "TaiwanCALL & TESPA Joint Conference 2027",
@@ -290,7 +380,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "23–24/04/2027"
+      "eventDate": "23–24/04/2027",
+      "en": {
+        "title": "TaiwanCALL & TESPA Joint Conference 2027",
+        "when": "23–24/04/2027",
+        "place": "City Suites – Kaohsiung Chenai, Kaohsiung, Taiwan",
+        "fee": "A registration page exists, but the fee amounts could not be extracted; check the fee table/image or contact the organizers.",
+        "contact": "twcall24@gmail.com",
+        "notes": "Abstract submission: 1 November 2026–15 January 2027; decisions on 15 February 2027; early bird: 1 January–28 February 2027; regular registration until 5 April 2027. Presentations in English; CALL/ESP, AI and language learning. Remote participation has not been confirmed. Organizers: R.O.C. Air Force Academy, TaiwanCALL and Taiwan ESP Association. Full-paper requirements and indexing have not been announced.",
+        "feeBasis": "Author/presenter reference fee; see the detailed conditions.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "GeoAI, Climate Data Harmonization, and Multi-Source Remote Sensing for Smart Agriculture",
@@ -320,7 +420,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "GeoAI, Climate Data Harmonization, and Multi-Source Remote Sensing for Smart Agriculture",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Alessandro Vitale; Francesco Lamonaca. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "TaLS 2027 — 2nd Workshop on Language and Society",
@@ -349,7 +459,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "14/05/2027"
+      "eventDate": "14/05/2027",
+      "en": {
+        "title": "TaLS 2027 — 2nd Workshop on Language and Society",
+        "when": "14/05/2027",
+        "place": "National Chengchi University, Taipei, Taiwan",
+        "fee": "Author, attendee and student fees have not been announced or verified.",
+        "contact": "CFP/form linked from the NCCU announcement; a direct email address has not been verified.",
+        "notes": "TaLS Network; language and society, sociolinguistics and conversation analysis. English abstract up to 500 words; deadline: 31 January 2027 at 23:59 UTC+8, equivalent to 22:59 Vietnam time. Decisions: 28 February 2027. Presentation: 20 minutes plus 10 minutes of discussion. Presentation language, registration, full papers, proceedings and remote participation have not been verified. The official NCCU announcement was indexed by the search engine; the detailed page and form could not be accessed during the source check.",
+        "feeBasis": "Author/presenter reference fee; see the detailed conditions.",
+        "verification": "Official NCCU announcement retrieved via search results; detailed page was inaccessible at the source check."
+      }
     },
     {
       "title": "Hội thảo Khoa học Quản lý đất đai toàn quốc lần V",
@@ -377,7 +497,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "23–24/07/2027"
+      "eventDate": "23–24/07/2027",
+      "en": {
+        "title": "5th National Scientific Conference on Land Management",
+        "when": "23–24 July 2027; field activities on 24 July",
+        "place": "University of Agriculture and Forestry, Hue University; 102 Phung Hung, Hue, Vietnam",
+        "fee": "Conference and publication fees have not been verified; do not assume free participation.",
+        "contact": "htqldd2027@huaf.edu.vn; Assoc. Prof. Nguyen Huu Ngu: nguyenhuunguwx@huaf.edu.vn, 0944948585",
+        "notes": "Vietnamese/English abstracts up to 250 words due 20 February 2027; full-paper submission window: 20 February–10 March 2027; peer review and revision until 30 May 2027; registration: 31 May–10 June 2027. Tracks include surveying/cartography, remote sensing, GIS and AI. Organized by the University of Agriculture and Forestry, Hue University, with co-organizing universities. Papers in Vietnamese or English. Organizers list publication routes in Tap chi Khoa hoc Dat, Tap chi Nong nghiep va Moi truong, and proceedings from Hue University Publishing House. Indexing has not been announced.",
+        "feeBasis": "Author/presenter reference fee; see the detailed conditions.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Agentic and Generative AI for Spatial Data Science: Toward Intelligent, Interactive, and Predictive Urban Systems",
@@ -406,7 +536,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "Agentic and Generative AI for Spatial Data Science: Toward Intelligent, Interactive, and Predictive Urban Systems",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Haowen Xu, Zhe (Sarina) Zhang, Di Zhu. Full-manuscript deadline: 2027-05-30; abstract deadline: 2027-02-28. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "GNSS Observations in Meteorology",
@@ -436,7 +576,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "GNSS Observations in Meteorology",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Liang Zhang; Bao Zhang; Junyu Li. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "ALTL 2027 — Applied Linguistics, Language Teaching & Learning",
@@ -465,7 +615,17 @@
       "feeBasis": "Online presenter, vòng sớm; không gồm phí người nghe",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "23–24/07/2027"
+      "eventDate": "23–24/07/2027",
+      "en": {
+        "title": "ALTL 2027 — Applied Linguistics, Language Teaching & Learning",
+        "when": "23–24/07/2027",
+        "place": "Hybrid: Bangkok, Thailand, and online",
+        "fee": "Online presenter: USD 199 / 249 / 299; online attendee: USD 99 / 149 / 199 (early until 31 March; mid until 30 June; late until 15 July 2027).",
+        "contact": "Use the official “Email the secretariat” / “Questions and contact” links; the email address was hidden during extraction.",
+        "notes": "English abstract up to 300 words. Deadlines: early 31 March, regular 31 May, late-breaking 30 June 2027 at 23:59 UTC+7, the same as Vietnam time. Final registration: 15 July 2027. Live online presentation is permitted; session times have not been announced. One fee covers ALTL and ETLT; counted as one opportunity. Information is organizer-published; academic quality has not been independently assessed. Organizer: Eurasia Conferences. The organizer states that the abstract book has an ISBN and DOI; this does not establish Scopus/WoS indexing. Language: English.",
+        "feeBasis": "Early online-presenter fee; attendee fees are separate.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Communication–Navigation–Sensing for Space-Air-Ground-Sea Integrated System",
@@ -494,7 +654,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "Communication–Navigation–Sensing for Space-Air-Ground-Sea Integrated System",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Zhongliang Deng, Jichong Han. Full-manuscript deadline: 2027-03-31; abstract deadline: Not verified. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Innovative Approaches in Geospatial Analysis and Modeling of Urban Environments",
@@ -523,7 +693,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "Innovative Approaches in Geospatial Analysis and Modeling of Urban Environments",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Shivanand Balram, Eric Vaz, Suzana Dragicevic. Full-manuscript deadline: 2027-03-31; abstract deadline: Not verified. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Navigation and Positioning System: Opportunities and Obstacles",
@@ -552,7 +732,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "Navigation and Positioning System: Opportunities and Obstacles",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Kamil Maciuk, Paulina Lewińska, Artur Krawczyk. Full-manuscript deadline: 2027-03-31; abstract deadline: Not verified. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Theory and Methods for High-Trust and High-Security PNT Information",
@@ -581,7 +771,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "Theory and Methods for High-Trust and High-Security PNT Information",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Ke Su, Guoqiang Jiao, Yulong Ge, Daqian Lyu, Tianjun Liu, Kewen Sun. Full-manuscript deadline: 2027-05-31; abstract deadline: 2027-03-31. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Women in Geomatics in 2026",
@@ -611,7 +811,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "Women in Geomatics in 2026",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Monica Sebillo; Caterina Balletti. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Remote Sensing for Wetland Ecosystem Mapping, Monitoring, and Sustainable Management",
@@ -641,7 +851,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "Remote Sensing for Wetland Ecosystem Mapping, Monitoring, and Sustainable Management",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Rong Zhang; Yuanchao Su; Yang Chen; Yongxing Ren. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Advanced Geospatial Intelligence for Sustainable Agriculture and Environmental Management",
@@ -671,7 +891,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "Advanced Geospatial Intelligence for Sustainable Agriculture and Environmental Management",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Konstantinos X. Soulis; Dionissios Kalivas; Thomas Alexandridis. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Advances in Earth Observation and AI Technologies to Support Water-Related SDGs-2nd Edition",
@@ -700,7 +930,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "Advances in Earth Observation and AI Technologies to Support Water-Related SDGs-2nd Edition",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Wei Jiang, Zhiguo Pang, Akiyuki Kawasaki, Elhadi Adam, Qingke Wen, Win Win Zin, Sutee Anantsuksomsri, Yaohui Liu, Yi Dou, Yizhu Lu, Teodosio Lacava. Full-manuscript deadline: 2027-06-30; abstract deadline: 2027-04-30. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Crowdsourcing and Citizen Science in Geography",
@@ -730,7 +970,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "Crowdsourcing and Citizen Science in Geography",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Vyron Antoniou; Kleomenis Kalogeropoulos; Andriani Skopeliti; Andreas Tsatsaris. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Remote Sensing and GIS for Geomorphology and Tectonic Studies",
@@ -759,7 +1009,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "Remote Sensing and GIS for Geomorphology and Tectonic Studies",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Mingdong Zang, Zuopeng Wang, Chong Xu, Shuangcheng Zhang, Ya Kang. Full-manuscript deadline: 2027-04-30; abstract deadline: Not verified. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "AI-Driven Digital Twins for Smart Cities and Spatial Governance",
@@ -789,7 +1049,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "AI-Driven Digital Twins for Smart Cities and Spatial Governance",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Haowen Xu; Dessislava Petrova-Antonova; Christina Mikrenska. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Advances in Precise Point Positioning with GNSS",
@@ -819,7 +1089,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "Advances in Precise Point Positioning with GNSS",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Wei Xie; Ce Jing; Shichao Xie; Bobin Cui; Gino Dardanelli. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Identification, Characterization and Dynamic-Risk Assessment of High-Mountain Geohazards",
@@ -848,7 +1128,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "Identification, Characterization and Dynamic-Risk Assessment of High-Mountain Geohazards",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Xueliang Wang, Paolo Frattini, Dongpo Wang, Wen Zhang, Jie Dou, Juanjuan Sun. Full-manuscript deadline: 2027-05-31; abstract deadline: Not verified. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "GNSS Measurement Technique in Aerial Navigation II",
@@ -877,7 +1167,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "GNSS Measurement Technique in Aerial Navigation II",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Kamil Krasuski, Damian Wierzbicki. Full-manuscript deadline: 2027-06-17; abstract deadline: Not verified. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Advanced Geomatics and Proximal Remote Sensing for Forest Biomass Mapping and Carbon Stock Assessment",
@@ -907,7 +1207,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "Advanced Geomatics and Proximal Remote Sensing for Forest Biomass Mapping and Carbon Stock Assessment",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Nadeem Fareed; Marguerite Madden. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Democratizing 3D Mapping via Non-Conventional and Low-Cost LiDAR and Imaging Sensors",
@@ -936,7 +1246,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "Democratizing 3D Mapping via Non-Conventional and Low-Cost LiDAR and Imaging Sensors",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Jesús Balado Frías, Lorenzo Teppati Losè, Zhouyan Qiu. Full-manuscript deadline: 2027-06-30; abstract deadline: Not verified. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "GNSS and Other Satellite Based Technologies in Geomatics",
@@ -966,7 +1286,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "GNSS and Other Satellite Based Technologies in Geomatics",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Minghua Wang; Haojun Li; Wen Chen; Rui Zhang. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Innovative Remote Sensing Approaches: 3D Reconstruction, UAV Photogrammetry, and BIM in Cultural Heritage and Infrastructure",
@@ -996,7 +1326,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "Innovative Remote Sensing Approaches: 3D Reconstruction, UAV Photogrammetry, and BIM in Cultural Heritage and Infrastructure",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Lidia M. Ortega Alvarado; María I. Ramos Galan. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Advanced Spatial Data Science and Spatial Intelligence for Understanding Urban Systems",
@@ -1026,7 +1366,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "Advanced Spatial Data Science and Spatial Intelligence for Understanding Urban Systems",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Xintao Liu; Bin Jiang. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Satellite Geodesy for Natural Disaster Monitoring",
@@ -1056,7 +1406,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "Satellite Geodesy for Natural Disaster Monitoring",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Salvatore Stramondo; Nicolò Parrino. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Mining Geomatics: Technologies, Methods and Models",
@@ -1086,7 +1446,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "Mining Geomatics: Technologies, Methods and Models",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Artur Krawczyk; Bodo Bernsdorf; Justyna Woźniak. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Geomatics for Urban and Civil Infrastructure Life Cycle Management",
@@ -1116,7 +1486,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "Geomatics for Urban and Civil Infrastructure Life Cycle Management",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Federica Gaspari; Francesco Ioli; Daniela Carrion; Kauê de Moraes Vestena; Nicole Pascucci. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Laser Scanning, LIDAR & 3D Point Cloud Processing",
@@ -1146,7 +1526,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt"
+      "eventDate": "Không áp dụng ngày hội thảo; xuất bản theo quá trình xét duyệt",
+      "en": {
+        "title": "Laser Scanning, LIDAR & 3D Point Cloud Processing",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Guest editors / assistants as listed in the official directory: Abderrazzaq Kharroubi; Rafika Hajji; Imane Jeddoub. Full-manuscript deadline. Listed as Open for Submission in the Special Issues directory. Some detail pages restricted access, so names and deadlines were checked against the directory. Cutoff time/time zone have not been verified. Scope: as described by the issue title; manuscripts in English. No separate abstract deadline has been verified. Both directory pages were checked on 13 November 2026; no deadline changes were found relative to 12 November.",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Advances in Close-Range Sensing and GeoAI for Forest Mapping and Monitoring",
@@ -1175,7 +1565,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "Advances in Close-Range Sensing and GeoAI for Forest Mapping and Monitoring",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Zuoya Liu, Samuli Junttila, Jianxin Jia, Jiri Pyörälä . Full-manuscript deadline: 2027-11-30; abstract deadline: Not verified. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Advances in Visual Matching-Based Localization for Unmanned Systems",
@@ -1204,7 +1604,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "Advances in Visual Matching-Based Localization for Unmanned Systems",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Changhui Jiang, Lianwu Guan, Zikang Su, Xiang Wu, Zuoya Liu. Full-manuscript deadline: 2027-11-30; abstract deadline: Not verified. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Applications of Artificial Intelligence Models and Spatiotemporal Data in Agriculture and the Ecological Environment",
@@ -1233,7 +1643,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "Applications of Artificial Intelligence Models and Spatiotemporal Data in Agriculture and the Ecological Environment",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Heng Lu, Xiaoai Dai, Lei Ma. Full-manuscript deadline: 2027-12-30; abstract deadline: Not verified. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Advances in Hydrological Remote Sensing, 2nd Edition",
@@ -1262,7 +1682,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "Advances in Hydrological Remote Sensing, 2nd Edition",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Hailong Liu, Liangliang Jiang. Full-manuscript deadline: 2027-12-31; abstract deadline: Not verified. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "LEO/GNSS Satellite Clocks: Characterization, Determination, Prediction and Application",
@@ -1291,7 +1721,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "LEO/GNSS Satellite Clocks: Characterization, Determination, Prediction and Application",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Meifang Wu, Fu Zheng, Yulong Ge. Full-manuscript deadline: 2027-12-31; abstract deadline: Not verified. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "The Use of Drones to Survey, Detect and Accurately Assess Earth Surface Processes",
@@ -1320,7 +1760,17 @@
       "feeBasis": "Phí tác giả/trình bày; xem điều kiện trong chi tiết",
       "status": "Còn hạn theo nguồn",
       "sourceDate": "2026-11-13",
-      "eventDate": "Không áp dụng ngày hội thảo"
+      "eventDate": "Không áp dụng ngày hội thảo",
+      "en": {
+        "title": "The Use of Drones to Survey, Detect and Accurately Assess Earth Surface Processes",
+        "when": "Not a conference; publication follows editorial review.",
+        "place": "Online journal submission; open to authors worldwide.",
+        "fee": "Geomatics standard APC: CHF 1,200 per accepted article; VAT/taxes may apply. Waivers/discounts are conditional and have not been confirmed for any specific author. Other participating journals have their own APCs.",
+        "contact": "geomatics@mdpi.com",
+        "notes": "Topic Editors: Jesús Rodrigo-Comino, Jesús González Vivar. Full-manuscript deadline: 2028-01-30; abstract deadline: Not verified. The title describes the scope. Submit to a participating journal, selecting Geomatics if appropriate. Whether an abstract is mandatory has not been verified. The 2028 deadline is retained as supplementary tracking outside the 2027 window. ",
+        "feeBasis": "Geomatics APC after acceptance; not a conference participation fee.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     },
     {
       "title": "Asia-Pacific Gravity and Geoid Workshop 2027",
@@ -1350,7 +1800,17 @@
       "feeBasis": "Phí cho Taiwan participants; overseas được miễn theo nguồn cũ, cần xác minh điều kiện",
       "status": "Hết hạn nộp mới",
       "sourceDate": "2026-11-13",
-      "eventDate": "05–07/01/2027"
+      "eventDate": "05–07/01/2027",
+      "en": {
+        "title": "Asia-Pacific Gravity and Geoid Workshop 2027",
+        "when": "05–07/01/2027",
+        "place": "NYCU, Guangfu Campus, Hsinchu, Taiwan; Room 227, Engineering Building 2",
+        "fee": "Taiwan participants: TWD 3,000; overseas participants are exempt from the registration fee according to the organizer page. Online eligibility and fee conditions need reconfirmation.",
+        "contact": "cheinway@nycu.edu.tw; vanessa54953@nycu.edu.tw",
+        "notes": "Abstract deadline of 30 September 2026 has passed. A hybrid session is scheduled for 6 January 2027; contact the organizers about remote presentation rights and late submissions. A final attendee registration deadline has not been verified.",
+        "feeBasis": "Taiwan-participant fee; overseas waiver and online conditions require verification.",
+        "verification": "Main page and abstract deadline rechecked on 13 November 2026. The fee page was inaccessible that day; the fee is retained from the 12 November check."
+      }
     },
     {
       "title": "ICLD 2027 — 3rd International Conference on Language Development",
@@ -1381,7 +1841,17 @@
       "feeBasis": "Online presenter thông thường; ưu đãi riêng xem chi tiết",
       "status": "Hết hạn nộp mới",
       "sourceDate": "2026-11-13",
-      "eventDate": "02–03/07/2027"
+      "eventDate": "02–03/07/2027",
+      "en": {
+        "title": "ICLD 2027 — 3rd International Conference on Language Development",
+        "when": "02–03/07/2027",
+        "place": "Ton Duc Thang University, Vietnam; online presentations via Zoom are available",
+        "fee": "Onsite presenter: USD 180; online presenter: USD 150; FFL TDTU lecturers: USD 90; TDTU students/postgraduates: USD 100; onsite attendee: USD 70; online attendee without a certificate: free.",
+        "contact": "icld@tdtu.edu.vn; Faculty of Foreign Languages: khoangoaingu@tdtu.edu.vn",
+        "notes": "Abstract deadline of 31 July and extended full-paper deadline of 20 October 2026 have passed. Revision deadline of 20 November 2026 and camera-ready deadline of 5 January 2027 apply only to existing submissions; these are not new-submission rounds. The attendee registration deadline has not been verified. Contact email verified; the registration page links to a form. Organized by TDTU and partners. Language: English. Springer/Scopus opportunities are organizer claims; acceptance and indexing of individual papers have not been independently verified.",
+        "feeBasis": "Standard online-presenter fee; other categories are listed separately.",
+        "verification": "Official source cross-checked on 13 November 2026."
+      }
     }
   ],
   "jobs": [
@@ -1413,7 +1883,23 @@
       "urls": [
         "https://www.104.com.tw/jobs/search/?area=6001016006&jobsource=vm_11edm"
       ],
-      "historicalStatus": "ACTIVE — listing 08/10"
+      "historicalStatus": "ACTIVE — listing 08/10",
+      "en": {
+        "title": "Bathymetric Data Processing Engineer — 銓日儀企業",
+        "salary": "NT$36,000–50,000/month",
+        "fields": {
+          "Location": "Qijin, Kaohsiung",
+          "Salary": "NT$36,000–50,000/month",
+          "Deadline": "Not stated",
+          "Experience": "No experience required; training offered",
+          "Work": "Bathymetric processing, validation/QC, reporting, occasional offshore survey support",
+          "Qualification": "University degree; Earth sciences, geophysics, marine geology, civil, geomatics or surveying preferred",
+          "Language / visa": "Not stated / Not stated",
+          "Apply": "Find 資料處理工程師 under 銓日儀企業有限公司 on 104 and apply using 104 profile/CV",
+          "Contact": "Via 104 employer messaging; direct email/phone not stated",
+          "Source": "<a href=\"https://www.104.com.tw/jobs/search/?area=6001016006&jobsource=vm_11edm\" target=\"_blank\" rel=\"noopener\">https://www.104.com.tw/jobs/search/?area=6001016006&jobsource=vm_11edm</a>"
+        }
+      }
     },
     {
       "id": "J2",
@@ -1443,7 +1929,23 @@
       "urls": [
         "https://www.1111.com.tw/job/103892282/"
       ],
-      "historicalStatus": "ACTIVE — listing 05/10"
+      "historicalStatus": "ACTIVE — listing 05/10",
+      "en": {
+        "title": "揚運國際 – Marine Geophysics Research Assistant 550H200 — ITRI Green Energy / 揚運國際",
+        "salary": "NT$36,000–60,000/month",
+        "fields": {
+          "Location": "Guiren, Tainan (Shalun)",
+          "Salary": "NT$36,000–60,000/month",
+          "Type": "Full-time; agency-dispatched to ITRI",
+          "Deadline": "Not stated",
+          "Qualification": "Bachelor or Master",
+          "Work": "Marine geophysical data analysis, geological structural interpretation, project reports, technical literature and meetings",
+          "Language / visa": "Not stated / Not stated",
+          "Apply": "Apply through 1111 posting; recruitment handled by 揚運國際人力集團",
+          "Contact": "Through 1111; direct email/phone not confirmed",
+          "Source": "<a href=\"https://www.1111.com.tw/job/103892282/\" target=\"_blank\" rel=\"noopener\">https://www.1111.com.tw/job/103892282/</a>"
+        }
+      }
     },
     {
       "id": "J3",
@@ -1473,7 +1975,23 @@
       "urls": [
         "https://www.1111.com.tw/search/job?col=ab&ks=%E7%A0%94%E7%A9%B6%E6%B5%B7%E6%B4%8B&page=1&sort=desc"
       ],
-      "historicalStatus": "ACTIVE — listing 06/10"
+      "historicalStatus": "ACTIVE — listing 06/10",
+      "en": {
+        "title": "地球環境資源與災害協會 – Marine Geophysics Researcher",
+        "salary": "NT$42,000+ bachelor; NT$46,000+ master",
+        "fields": {
+          "Location": "Zhongli, Taoyuan",
+          "Salary": "NT$42,000+ bachelor; NT$46,000+ master",
+          "Deadline": "Not stated",
+          "Work": "Marine survey data collection and geophysical processing",
+          "Software": "Promax, SonarWiz, CARIS",
+          "Qualification": "Earth science/geology/geophysics or survey/exploration/electronics background",
+          "Language / visa": "Not stated / Not stated",
+          "Apply": "Open 1111 ocean research job search, select 海洋地球物理研究人員 and submit 1111 application",
+          "Contact": "Via 1111; direct details not verified",
+          "Source": "<a href=\"https://www.1111.com.tw/search/job?col=ab&ks=%E7%A0%94%E7%A9%B6%E6%B5%B7%E6%B4%8B&page=1&sort=desc\" target=\"_blank\" rel=\"noopener\">https://www.1111.com.tw/search/job?col=ab&ks=%E7%A0%94%E7%A9%B6%E6%B5%B7%E6%B4%8B&page=1&sort=desc</a>"
+        }
+      }
     },
     {
       "id": "J4",
@@ -1503,7 +2021,23 @@
       "urls": [
         "https://www.1111.com.tw/job/132838236/"
       ],
-      "historicalStatus": "ACTIVE — listing 25/09"
+      "historicalStatus": "ACTIVE — listing 25/09",
+      "en": {
+        "title": "NCKU Hydraulic Research Institute – Research Assistant",
+        "salary": "NT$40,000+/month",
+        "fields": {
+          "Location": "Annan, Tainan",
+          "Salary": "NT$40,000+/month",
+          "Qualification": "Master",
+          "Deadline": "Not stated",
+          "Work": "Hydraulic/ocean research, data analysis, GIS, sea and island fieldwork",
+          "Software": "MATLAB/Python, GIS",
+          "Language / visa": "Not stated / Not stated",
+          "Apply": "Apply on 1111 with CV/profile",
+          "Contact": "Dr Chou, n4896106@thl.ncku.edu.tw (previously reported; reconfirm)",
+          "Source": "<a href=\"https://www.1111.com.tw/job/132838236/\" target=\"_blank\" rel=\"noopener\">https://www.1111.com.tw/job/132838236/</a>"
+        }
+      }
     },
     {
       "id": "J5",
@@ -1533,7 +2067,23 @@
       "urls": [
         "https://rcci.sinica.edu.tw/en/recruitment.php?id=47"
       ],
-      "historicalStatus": "ACTIVE — deadline 31/12"
+      "historicalStatus": "ACTIVE — deadline 31/12",
+      "en": {
+        "title": "Academia Sinica – Taiwan Ocean Observing System RA",
+        "salary": "NT$38,388+ bachelor; NT$44,968+ master; NT$64,711+ PhD",
+        "fields": {
+          "Location": "Guiren, Tainan",
+          "Salary": "NT$38,388+ bachelor; NT$44,968+ master; NT$64,711+ PhD",
+          "Deadline": "31 December 2026",
+          "Work": "Ocean observation, field samples/data, research vessel, moorings and instruments",
+          "Qualification": "Bachelor/Master in relevant marine/earth/environment fields",
+          "Language": "1111 lists no foreign-language restriction",
+          "Visa": "Not stated",
+          "Apply": "Email one combined PDF with CV, autobiography, degree/experience certificates and supporting evidence; subject 應徵專任研究助理",
+          "Contact": "Ms Kuo; kate1020@gate.sinica.edu.tw; +886-2-2787-7914",
+          "Source": "<a href=\"https://rcci.sinica.edu.tw/en/recruitment.php?id=47\" target=\"_blank\" rel=\"noopener\">https://rcci.sinica.edu.tw/en/recruitment.php?id=47</a>"
+        }
+      }
     },
     {
       "id": "J6",
@@ -1560,7 +2110,20 @@
       "urls": [
         "https://www.1111.com.tw/job/132474770"
       ],
-      "historicalStatus": "EXPIRED — 06/09"
+      "historicalStatus": "EXPIRED — 06/09",
+      "en": {
+        "title": "National Academy of Marine Research – Marine Remote Sensing RA",
+        "salary": "NT$41,500+/month (previous round)",
+        "fields": {
+          "Location": "Qianzhen, Kaohsiung",
+          "Salary": "NT$41,500+/month (previous round)",
+          "Deadline": "06 September 2026",
+          "Work": "Marine remote sensing, GIS, Python, AI/ML and ocean observation",
+          "Apply": "Previous round closed; monitor next government recruitment round",
+          "Contact": "amilia0706@namr.gov.tw; +886-7-3382097 ext 263703 (previous listing)",
+          "Source": "<a href=\"https://www.1111.com.tw/job/132474770\" target=\"_blank\" rel=\"noopener\">https://www.1111.com.tw/job/132474770</a>"
+        }
+      }
     },
     {
       "id": "J7",
@@ -1587,7 +2150,20 @@
       "urls": [
         "https://au.seek.com/arcgis-jobs/in-West-Perth-WA-6005"
       ],
-      "historicalStatus": "VERIFY — SEEK listing"
+      "historicalStatus": "VERIFY — SEEK listing",
+      "en": {
+        "title": "Reach Subsea – Data Processor Hydrographic Survey",
+        "salary": "Not stated",
+        "fields": {
+          "Location": "West Perth, WA",
+          "Salary": "Not stated",
+          "Deadline": "Not verified",
+          "Work": "Hydrographic survey data processing",
+          "Apply": "Search exact title on SEEK; confirm vacancy closing date and direct employer application",
+          "Contact": "Not stated",
+          "Source": "<a href=\"https://au.seek.com/arcgis-jobs/in-West-Perth-WA-6005\" target=\"_blank\" rel=\"noopener\">https://au.seek.com/arcgis-jobs/in-West-Perth-WA-6005</a>"
+        }
+      }
     },
     {
       "id": "J8",
@@ -1617,7 +2193,23 @@
       "urls": [
         "https://www.hydroeg.com/jobposition"
       ],
-      "historicalStatus": "ACTIVE — Apply Now shown"
+      "historicalStatus": "ACTIVE — Apply Now shown",
+      "en": {
+        "title": "Hydro Energy Group – MBES Processor #10136",
+        "salary": "Not stated",
+        "fields": {
+          "Location": "Remote",
+          "Start": "12 October 2026",
+          "Type": "Contract",
+          "Salary": "Not stated",
+          "Deadline": "Not stated",
+          "Software": "MBES; specific package not stated",
+          "Language / residency": "Not stated / Not stated",
+          "Apply": "Open Hydro Energy Group Job Position, locate reference 10136 and select Apply Now",
+          "Contact": "Through employer application portal",
+          "Source": "<a href=\"https://www.hydroeg.com/jobposition\" target=\"_blank\" rel=\"noopener\">https://www.hydroeg.com/jobposition</a>"
+        }
+      }
     },
     {
       "id": "J9",
@@ -1647,7 +2239,23 @@
       "urls": [
         "https://www.hydroeg.com/jobposition"
       ],
-      "historicalStatus": "ACTIVE — Apply Now shown"
+      "historicalStatus": "ACTIVE — Apply Now shown",
+      "en": {
+        "title": "Hydro Energy Group – MBES Processor #10137",
+        "salary": "Not stated",
+        "fields": {
+          "Location": "Remote",
+          "Start": "14 October 2026",
+          "Type": "Contract",
+          "Salary": "Not stated",
+          "Deadline": "Not stated",
+          "Software": "MBES; specific package not stated",
+          "Language / residency": "Not stated / Not stated",
+          "Apply": "Open Hydro Energy Group Job Position, locate reference 10137 and select Apply Now",
+          "Contact": "Through employer application portal",
+          "Source": "<a href=\"https://www.hydroeg.com/jobposition\" target=\"_blank\" rel=\"noopener\">https://www.hydroeg.com/jobposition</a>"
+        }
+      }
     },
     {
       "id": "J10",
@@ -1676,7 +2284,22 @@
       "urls": [
         "https://remotive.com/remote/jobs/all-others/mbes-data-processor-5557291"
       ],
-      "historicalStatus": "VERIFY — third-party listing"
+      "historicalStatus": "VERIFY — third-party listing",
+      "en": {
+        "title": "We ARE Recruitment – MBES Data Processor",
+        "salary": "Not stated",
+        "fields": {
+          "Location": "Fully remote",
+          "Duration": "October–December 2026, 40 hours/week, 24/7 shift coverage",
+          "Software": "BeamWorx AutoClean mandatory",
+          "Language": "Fluent English",
+          "Salary": "Not stated",
+          "Deadline": "Not verified",
+          "Apply": "Follow recruiter/application link from Remotive and confirm vacancy still open",
+          "Contact": "Recruiter through listing",
+          "Source": "<a href=\"https://remotive.com/remote/jobs/all-others/mbes-data-processor-5557291\" target=\"_blank\" rel=\"noopener\">https://remotive.com/remote/jobs/all-others/mbes-data-processor-5557291</a>"
+        }
+      }
     }
   ],
   "github": [
@@ -1696,7 +2319,10 @@
       "urls": [
         "https://github.com/codecrafters-io/build-your-own-x"
       ],
-      "title": "codecrafters-io/build-your-own-x"
+      "title": "codecrafters-io/build-your-own-x",
+      "en": {
+        "description": "Build popular technologies from scratch"
+      }
     },
     {
       "rank": 2,
@@ -1714,7 +2340,10 @@
       "urls": [
         "https://github.com/sindresorhus/awesome"
       ],
-      "title": "sindresorhus/awesome"
+      "title": "sindresorhus/awesome",
+      "en": {
+        "description": "Curated lists of useful resources"
+      }
     },
     {
       "rank": 3,
@@ -1732,7 +2361,10 @@
       "urls": [
         "https://github.com/public-apis/public-apis"
       ],
-      "title": "public-apis/public-apis"
+      "title": "public-apis/public-apis",
+      "en": {
+        "description": "Directory of free public APIs"
+      }
     },
     {
       "rank": 4,
@@ -1750,7 +2382,10 @@
       "urls": [
         "https://github.com/freeCodeCamp/freeCodeCamp"
       ],
-      "title": "freeCodeCamp/freeCodeCamp"
+      "title": "freeCodeCamp/freeCodeCamp",
+      "en": {
+        "description": "Free programming curriculum and learning platform"
+      }
     },
     {
       "rank": 5,
@@ -1768,7 +2403,10 @@
       "urls": [
         "https://github.com/morluto/rea"
       ],
-      "title": "morluto/rea"
+      "title": "morluto/rea",
+      "en": {
+        "description": "AI agents for reverse engineering and understanding software"
+      }
     },
     {
       "rank": 6,
@@ -1786,7 +2424,10 @@
       "urls": [
         "https://github.com/EbookFoundation/free-programming-books"
       ],
-      "title": "EbookFoundation/free-programming-books"
+      "title": "EbookFoundation/free-programming-books",
+      "en": {
+        "description": "Collection of free programming books"
+      }
     },
     {
       "rank": 7,
@@ -1804,7 +2445,10 @@
       "urls": [
         "https://github.com/openclaw/openclaw"
       ],
-      "title": "openclaw/openclaw"
+      "title": "openclaw/openclaw",
+      "en": {
+        "description": "AI assistant for computer tasks"
+      }
     },
     {
       "rank": 8,
@@ -1822,7 +2466,10 @@
       "urls": [
         "https://github.com/donnemartin/system-design-primer"
       ],
-      "title": "donnemartin/system-design-primer"
+      "title": "donnemartin/system-design-primer",
+      "en": {
+        "description": "Large-scale system design learning resources"
+      }
     },
     {
       "rank": 9,
@@ -1840,7 +2487,10 @@
       "urls": [
         "https://github.com/nilbuild/developer-roadmap"
       ],
-      "title": "nilbuild/developer-roadmap"
+      "title": "nilbuild/developer-roadmap",
+      "en": {
+        "description": "Developer learning roadmaps"
+      }
     },
     {
       "rank": 10,
@@ -1858,7 +2508,10 @@
       "urls": [
         "https://github.com/jwasham/coding-interview-university"
       ],
-      "title": "jwasham/coding-interview-university"
+      "title": "jwasham/coding-interview-university",
+      "en": {
+        "description": "Self-study computer science and interview curriculum"
+      }
     },
     {
       "rank": 11,
@@ -1876,7 +2529,10 @@
       "urls": [
         "https://github.com/awesome-selfhosted/awesome-selfhosted"
       ],
-      "title": "awesome-selfhosted/awesome-selfhosted"
+      "title": "awesome-selfhosted/awesome-selfhosted",
+      "en": {
+        "description": "Curated open-source self-hosted services"
+      }
     },
     {
       "rank": 12,
@@ -1894,7 +2550,10 @@
       "urls": [
         "https://github.com/vinta/awesome-python"
       ],
-      "title": "vinta/awesome-python"
+      "title": "vinta/awesome-python",
+      "en": {
+        "description": "Curated Python libraries"
+      }
     },
     {
       "rank": 13,
@@ -1912,7 +2571,10 @@
       "urls": [
         "https://github.com/mattpocock/skills"
       ],
-      "title": "mattpocock/skills"
+      "title": "mattpocock/skills",
+      "en": {
+        "description": "Skills for AI coding agents"
+      }
     },
     {
       "rank": 14,
@@ -1930,7 +2592,10 @@
       "urls": [
         "https://github.com/obra/superpowers"
       ],
-      "title": "obra/superpowers"
+      "title": "obra/superpowers",
+      "en": {
+        "description": "Development workflows and skills for AI agents"
+      }
     },
     {
       "rank": 15,
@@ -1948,7 +2613,10 @@
       "urls": [
         "https://github.com/affaan-m/ECC"
       ],
-      "title": "affaan-m/ECC"
+      "title": "affaan-m/ECC",
+      "en": {
+        "description": "Agent optimization, skills and memory"
+      }
     },
     {
       "rank": 16,
@@ -1966,7 +2634,10 @@
       "urls": [
         "https://github.com/practical-tutorials/project-based-learning"
       ],
-      "title": "practical-tutorials/project-based-learning"
+      "title": "practical-tutorials/project-based-learning",
+      "en": {
+        "description": "Learn programming through practical projects"
+      }
     },
     {
       "rank": 17,
@@ -1984,7 +2655,10 @@
       "urls": [
         "https://github.com/deepseek-ai/deepseek-harness"
       ],
-      "title": "deepseek-ai/deepseek-harness"
+      "title": "deepseek-ai/deepseek-harness",
+      "en": {
+        "description": "Plugin-based agent harness architecture"
+      }
     },
     {
       "rank": 18,
@@ -2002,7 +2676,10 @@
       "urls": [
         "https://github.com/996icu/996.ICU"
       ],
-      "title": "996icu/996.ICU"
+      "title": "996icu/996.ICU",
+      "en": {
+        "description": "Community project on 996 working culture"
+      }
     },
     {
       "rank": 19,
@@ -2020,7 +2697,10 @@
       "urls": [
         "https://github.com/NousResearch/hermes-agent"
       ],
-      "title": "NousResearch/hermes-agent"
+      "title": "NousResearch/hermes-agent",
+      "en": {
+        "description": "Extensible AI agent"
+      }
     },
     {
       "rank": 20,
@@ -2038,7 +2718,10 @@
       "urls": [
         "https://github.com/trimstray/the-book-of-secret-knowledge"
       ],
-      "title": "trimstray/the-book-of-secret-knowledge"
+      "title": "trimstray/the-book-of-secret-knowledge",
+      "en": {
+        "description": "Command, resource and tips handbook"
+      }
     },
     {
       "repo": "morluto/rea",
@@ -2054,7 +2737,10 @@
       ],
       "title": "morluto/rea",
       "category": "Chưa phân loại",
-      "language": "Chưa xác minh"
+      "language": "Chưa xác minh",
+      "en": {
+        "description": "No description in the retained sample."
+      }
     },
     {
       "repo": "storytold/craft-anything",
@@ -2070,7 +2756,10 @@
       ],
       "title": "storytold/craft-anything",
       "category": "Chưa phân loại",
-      "language": "Chưa xác minh"
+      "language": "Chưa xác minh",
+      "en": {
+        "description": "No description in the retained sample."
+      }
     },
     {
       "repo": "sherlock-project/sherlock",
@@ -2086,7 +2775,10 @@
       ],
       "title": "sherlock-project/sherlock",
       "category": "Chưa phân loại",
-      "language": "Chưa xác minh"
+      "language": "Chưa xác minh",
+      "en": {
+        "description": "No description in the retained sample."
+      }
     },
     {
       "repo": "Ebony-Vinyl/dsh-our-free-model",
@@ -2102,7 +2794,10 @@
       ],
       "title": "Ebony-Vinyl/dsh-our-free-model",
       "category": "Chưa phân loại",
-      "language": "Chưa xác minh"
+      "language": "Chưa xác minh",
+      "en": {
+        "description": "No description in the retained sample."
+      }
     },
     {
       "repo": "ccch1mneyyy/dsh-Go",
@@ -2118,7 +2813,10 @@
       ],
       "title": "ccch1mneyyy/dsh-Go",
       "category": "Chưa phân loại",
-      "language": "Chưa xác minh"
+      "language": "Chưa xác minh",
+      "en": {
+        "description": "No description in the retained sample."
+      }
     },
     {
       "repo": "anefzaoui/misterdownloadmanager",
@@ -2134,7 +2832,10 @@
       ],
       "title": "anefzaoui/misterdownloadmanager",
       "category": "Chưa phân loại",
-      "language": "Chưa xác minh"
+      "language": "Chưa xác minh",
+      "en": {
+        "description": "No description in the retained sample."
+      }
     },
     {
       "repo": "debpalash/VoiceStudio",
@@ -2150,7 +2851,10 @@
       ],
       "title": "debpalash/VoiceStudio",
       "category": "Chưa phân loại",
-      "language": "Chưa xác minh"
+      "language": "Chưa xác minh",
+      "en": {
+        "description": "No description in the retained sample."
+      }
     },
     {
       "repo": "mattpocock/skills",
@@ -2166,7 +2870,10 @@
       ],
       "title": "mattpocock/skills",
       "category": "Chưa phân loại",
-      "language": "Chưa xác minh"
+      "language": "Chưa xác minh",
+      "en": {
+        "description": "No description in the retained sample."
+      }
     },
     {
       "repo": "cloudflare/security-audit-skill",
@@ -2182,7 +2889,10 @@
       ],
       "title": "cloudflare/security-audit-skill",
       "category": "Chưa phân loại",
-      "language": "Chưa xác minh"
+      "language": "Chưa xác minh",
+      "en": {
+        "description": "No description in the retained sample."
+      }
     },
     {
       "repo": "stablyai/orca",
@@ -2198,7 +2908,16 @@
       ],
       "title": "stablyai/orca",
       "category": "Chưa phân loại",
-      "language": "Chưa xác minh"
+      "language": "Chưa xác minh",
+      "en": {
+        "description": "No description in the retained sample."
+      }
     }
-  ]
+  ],
+  "meta": {
+    "formatVersion": 2,
+    "interfaceDefault": "en",
+    "builtAt": "2026-11-16",
+    "note": "English/Vietnamese translation of retained reports; no new source verification."
+  }
 }
