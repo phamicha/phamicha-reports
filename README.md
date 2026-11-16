@@ -1,5 +1,13 @@
 # Phamicha Reports / Báo cáo Phamicha
 
+## 🌐 Open the report / Mở trang báo cáo
+
+**[https://phamicha.github.io/phamicha-reports/](https://phamicha.github.io/phamicha-reports/)**
+
+This is the rendered website. The repository below stores the source files. You can also find the live URL in **Settings → Pages → Visit site**.
+
+Đây là trang web hiển thị báo cáo. Kho GitHub bên dưới chứa các file mã nguồn. Bạn cũng có thể tìm đường link ở **Settings → Pages → Visit site**.
+
 English is the default. Use **EN / VN** to switch the interface and translated report descriptions without resetting filters.
 
 Three reports in one self-contained HTML: Conferences & journal calls 2027, APAC Geospatial Jobs, and GitHub Top 20 Weekly. Search, filters, sorting, CSV/JSON exports and full offline HTML download are included.
